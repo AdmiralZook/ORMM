@@ -1,0 +1,13 @@
+## Interface: 80000
+## Title: ORMM (Old Raid Money Maker)
+## Author: Admiral Zök
+## Version: 1.0.0
+## SavedVariables: SAVED_DATA
+
+
+stopwatch.lua
+data.lua
+game.lua
+state.lua
+interface.lua
+core.lua
